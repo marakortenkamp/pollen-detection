@@ -3,7 +3,7 @@
 
 https://docs.google.com/document/d/1k1hzXBiak9c3yoDUznVZRlRxYWgI2q5y9RgWvofalLc/edit#heading=h.7exhv13gzmb0
 
-We will use this repository to work on our project collaboratively. 
+We will use this repository to work on our project collaboratively. This document is supposed to be used as a documentation of our project and will be updated regularly.
 
 ## 1. Data
 * We did the data labeling together with group 1 and used supervisely to label the pollen baskets in the videos.
