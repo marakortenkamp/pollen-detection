@@ -1,0 +1,50 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 3000,
+        "width": 4000
+    },
+    "objects": [
+        {
+            "id": 435499154,
+            "classId": 1465073,
+            "description": "",
+            "geometryType": "point",
+            "labelerLogin": "tkficus",
+            "createdAt": "2020-05-05T12:23:32.472Z",
+            "updatedAt": "2020-05-05T20:29:22.733Z",
+            "tags": [],
+            "classTitle": "p",
+            "points": {
+                "exterior": [
+                    [
+                        2125,
+                        475
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 435499157,
+            "classId": 1465073,
+            "description": "",
+            "geometryType": "point",
+            "labelerLogin": "tkficus",
+            "createdAt": "2020-05-05T12:23:34.728Z",
+            "updatedAt": "2020-05-05T20:29:22.733Z",
+            "tags": [],
+            "classTitle": "p",
+            "points": {
+                "exterior": [
+                    [
+                        2134,
+                        419
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

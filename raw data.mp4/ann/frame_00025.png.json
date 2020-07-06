@@ -1,0 +1,90 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 3000,
+        "width": 4000
+    },
+    "objects": [
+        {
+            "id": 435498268,
+            "classId": 1465073,
+            "description": "",
+            "geometryType": "point",
+            "labelerLogin": "tkficus",
+            "createdAt": "2020-05-05T12:12:55.764Z",
+            "updatedAt": "2020-05-05T20:29:22.733Z",
+            "tags": [],
+            "classTitle": "p",
+            "points": {
+                "exterior": [
+                    [
+                        779,
+                        2099
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 435498269,
+            "classId": 1465073,
+            "description": "",
+            "geometryType": "point",
+            "labelerLogin": "tkficus",
+            "createdAt": "2020-05-05T12:12:57.848Z",
+            "updatedAt": "2020-05-05T20:29:22.733Z",
+            "tags": [],
+            "classTitle": "p",
+            "points": {
+                "exterior": [
+                    [
+                        809,
+                        2138
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 435498701,
+            "classId": 1465073,
+            "description": "",
+            "geometryType": "point",
+            "labelerLogin": "tkficus",
+            "createdAt": "2020-05-05T12:18:45.895Z",
+            "updatedAt": "2020-05-05T20:29:22.733Z",
+            "tags": [],
+            "classTitle": "p",
+            "points": {
+                "exterior": [
+                    [
+                        2844,
+                        617
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 435498705,
+            "classId": 1465073,
+            "description": "",
+            "geometryType": "point",
+            "labelerLogin": "tkficus",
+            "createdAt": "2020-05-05T12:18:48.401Z",
+            "updatedAt": "2020-05-05T20:29:22.733Z",
+            "tags": [],
+            "classTitle": "p",
+            "points": {
+                "exterior": [
+                    [
+                        2859,
+                        677
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

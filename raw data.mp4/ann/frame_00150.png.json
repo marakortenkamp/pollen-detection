@@ -1,0 +1,30 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 3000,
+        "width": 4000
+    },
+    "objects": [
+        {
+            "id": 435499075,
+            "classId": 1465073,
+            "description": "",
+            "geometryType": "point",
+            "labelerLogin": "tkficus",
+            "createdAt": "2020-05-05T12:22:13.307Z",
+            "updatedAt": "2020-05-05T20:29:22.733Z",
+            "tags": [],
+            "classTitle": "p",
+            "points": {
+                "exterior": [
+                    [
+                        2511,
+                        622
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
