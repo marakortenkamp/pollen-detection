@@ -13,3 +13,9 @@ We will use this repository to work on our project collaboratively. This documen
 ## 2. Environment
 * We decided to write our code in a jupyter notebook: bee-proyject.ipynb. We will use python and especially the pytorch library.  
 (We actively decided not to use google colab, since we haven't had a good experiences using it for larger projects.)
+
+## 3. Network
+* You can find all relevant Code in:
+  - data_processing.ipynb
+  - pollen_network.ipynb
+  - evaluate_network.ipynb
