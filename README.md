@@ -20,5 +20,5 @@ We will use this repository to work on our project collaboratively. This documen
       This is responsible for extracting images of single objects from given data.
   - pollen_network.ipynb  
       Initialise a convolutional neural network, load the data and train th network here.
-  - evaluate_network.ipynb  
+  - Evaluation.ipynb  
       Load the trained network and evaluate the performance, create heatmaps and plot those.
